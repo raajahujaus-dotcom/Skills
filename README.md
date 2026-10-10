@@ -7,6 +7,8 @@ A personal collection of [Claude](https://claude.ai) skills. Each skill is a fol
 | Skill | Trigger | What it does |
 | --- | --- | --- |
 | [adhd-decide](./adhd-decide) | `/adhd-decide` | Structured decision support for people with ADHD. Separates facts from interpretations, limits options to three, and ends on one small next step. |
+| [linkedin-content-engine](./linkedin-content-engine) | Asking for a LinkedIn post or ideas | Researches a topic, offers hooks from different frameworks, drafts the post in the user's own voice, and removes common AI-writing tells. |
+| [resume-structure](./resume-structure) | Creating or editing a resume | Applies layout, section order, date style, bullet rules, and ATS-safe file rules, with a quality checklist. Content always comes from the user. |
 
 ## Install a skill
 

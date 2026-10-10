@@ -1,0 +1,17 @@
+{
+  "skill_name": "linkedin-content-engine",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "write me a quick linkedin post about what I learned managing a support team through a product migration. I'm a customer success manager and want to get noticed by hiring managers.",
+      "expected_output": "Asks for or confirms goal, audience, and one or two proof points instead of inventing any. Researches a timely data point. Offers three hooks from different frameworks and waits for a pick before drafting.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "what should I post about this week? I work in B2B software sales and post about 3 times a week.",
+      "expected_output": "Presents two or three timely topics with data points, recommends one with a reason, and does not fabricate any personal metrics or stories.",
+      "files": []
+    }
+  ]
+}

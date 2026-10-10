@@ -1,0 +1,17 @@
+{
+  "skill_name": "resume-structure",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I need my resume reformatted for an account executive role. I have 8 years of experience across three software companies. Here are my roles and dates: Company A, Account Executive, 2021-2024; Company B, Senior Account Manager, 2018-2021; Company C, Sales Associate, 2016-2018. Target job description attached.",
+      "expected_output": "Asks for or confirms metrics instead of inventing them. Uses a 2-page layout with the specified section order, accurate dates, metric-first bullets, and delivers a .docx plus a .pdf. Runs the quality checklist.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "can you make my resume ATS friendly? I used a two-column template with a skills sidebar and a header with my contact info.",
+      "expected_output": "Identifies the ATS risks (columns, sidebar, header content), restructures to a single column with standard bullets, and preserves all of the user's content and dates unchanged.",
+      "files": []
+    }
+  ]
+}
