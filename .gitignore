@@ -1,0 +1,10 @@
+# Packaged builds: attach these to GitHub Releases instead of committing them
+*.skill
+
+# Local test workspaces
+*-workspace/
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

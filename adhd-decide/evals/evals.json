@@ -1,0 +1,17 @@
+{
+  "skill_name": "adhd-decide",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "/adhd-decide I keep going back and forth between two laptops. One is cheaper, the other has a better screen. I've been researching for two weeks and I can't pick.",
+      "expected_output": "Restates the decision in one sentence, classifies it as reversible but meaningful, separates facts from interpretations, offers at most three options, gives one 5-20 minute next step and one decision rule with a date. Does not re-ask what was already said and does not invent prices or specs.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "/adhd-decide it's 11pm and I can't stop thinking about whether to launch my side project this week or keep polishing it.",
+      "expected_output": "Recognizes the late hour and looping as a source of urgency, recommends pausing a non-urgent decision, gives a short grounding step and a time-boxed revisit, no shaming, no more than three options.",
+      "files": []
+    }
+  ]
+}
